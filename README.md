@@ -2,34 +2,17 @@
 
 `Desenvolvedor`
 
-Me chamo Seu Nome, tenho XX anos e estudo programação.
+Meu nome é Patricio, tenho 20 anos, cursando Python, na plataforma Curso em vídeo. Estudo análises e desenvolvimento de sistemas na uninassau de caruaru-PE
 
-Sou apaixonado por tecnologia 🚀
+gosto de sempre estar aprendendo coisas novas 📚
 
 ---
-
-## 🛠 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    alt="Python"
+    title="Python" 
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
