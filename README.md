@@ -4,7 +4,7 @@
 
 Meu nome é Patricio, tenho 20 anos, cursando Python, na plataforma Curso em vídeo. Estudo análises e desenvolvimento de sistemas na uninassau de caruaru-PE
 
-gosto de sempre estar aprendendo coisas novas 📚
+gosto de aprender coisas novas constantemente 📚
 
 ---
 ## 🤖 Linguagens e Tecnologias
